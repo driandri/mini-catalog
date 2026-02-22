@@ -1,6 +1,6 @@
-# gzn Catalog
+# Gzn Catalog
 
-gzn Catalog adalah sebuah aplikasi katalog mini interaktif yang dibangun menggunakan Vue.js dan Vite. Aplikasi ini didesain dengan konsep desain modern premium (glassmorphism dan dark mode), sehingga memberikan pengalaman visual tersendiri tanpa mengandalkan library CSS eksternal seperti Tailwind CSS atau Bootstrap. 
+Gzn Catalog adalah sebuah aplikasi katalog mini interaktif yang dibangun menggunakan Vue.js dan Vite. Aplikasi ini didesain dengan konsep desain modern premium (glassmorphism dan dark mode), sehingga memberikan pengalaman visual tersendiri tanpa mengandalkan library CSS eksternal seperti Tailwind CSS atau Bootstrap. 
 
 Semua aksi CRUD (*Create, Read, Update, Delete*) terhubung langsung dengan **LocalStorage**, sehingga data Anda tidak akan hilang saat browser dimuat ulang *(reload)*.
 
